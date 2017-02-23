@@ -1197,11 +1197,11 @@ body:not(.post-template) .post-title {
     min-width: 25px;
     font-size: 1.1rem;
 }
-.gist .blob-wrapper.data {
-   max-height:600px;
-   overflow:auto;
-}
 
+/* Pastebin */
+.content .embedPastebin {
+    margin-bottom: 1.75em;
+}
 
 /* ==========================================================================
    8. Pagination - Tools to let you flick between pages
